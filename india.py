@@ -1,5 +1,5 @@
 import turtle as t
-t.speed("fastest")
+t.speed("fast")
 # Big Blue Circle
 t.penup()
 t.goto (10, -65)
