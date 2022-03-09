@@ -57,10 +57,4 @@ t.goto(-400,250)
 t.pendown()
 t.bgpic("r2.png")
 
-
-
-
-
-
-
 t.done()
